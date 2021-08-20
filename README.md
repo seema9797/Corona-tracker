@@ -1,4 +1,3 @@
-# Corona-Live-Tracker
 
 # Corona-tracker
 
