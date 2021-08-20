@@ -1,10 +1,17 @@
-# Getting Started with Create React App
+# Corona-Live-Tracker
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+# Corona-tracker
 
-## Available Scripts
+# Features
+* Live Tracking of Corona world-wide
+* How Much Cases,Death and Recovery
 
-In the project directory, you can run:
+# Technologies
+* React Js
+* Electron Js
+* Material-ui
+# Live 🌏
+
 
 ### `yarn start`
 
