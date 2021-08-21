@@ -10,7 +10,7 @@
 * Electron Js
 * Material-ui
 # Live 🌏
-
+[https://corona-tracker-desktop.netlify.app/]
 
 ### `yarn start`
 
